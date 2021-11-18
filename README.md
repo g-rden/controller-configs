@@ -9,5 +9,5 @@ Open this link steam://controllerconfig/338170/2654540249 or create the director
 
 
 # AntiMicroX configs
-Wii Balance Board as mouse
-See [wbb.gamecontroller.amgp](wbb.gamecontroller.amgp)
+Wii Balance Board as mouse: [wbb.gamecontroller.amgp](wbb.gamecontroller.amgp).
+You will need [wbb-uinput](../../../wbb-uinput) for it to work

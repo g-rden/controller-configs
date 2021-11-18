@@ -1,16 +1,13 @@
 # controller-configs
 
 # Steam configs
-
 PS4 Controller with gyro and flickstick as mouse.
-Use this [link](steam://controllerconfig/338170/2654063828) or create the directory .local/share/Steam/steamapps/workshop/content/241100/2654063828 with 1782857511233637843_legacy.bin inside
+Open this link steam://controllerconfig/338170/2654063828 or create the directory ~/.local/share/Steam/steamapps/workshop/content/241100/2654063828 with the [PS4 controller config file](1782857511233637843_legacy.bin) inside.
 
 Single Joycon with gyro and flickstick as mouse.
-Use the link or create the directory .local/share/Steam/steamapps/workshop/content/241100/2654540249 with 1782857511235957837_legacy.bin inside
-steam://controllerconfig/338170/2654540249
+Open this link steam://controllerconfig/338170/2654540249 or create the directory ~/.local/share/Steam/steamapps/workshop/content/241100/2654540249 with the [Joycon config file](1782857511235957837_legacy.bin) inside.
 
 
-# AntiMicroX
-
+# AntiMicroX configs
 Wii Balance Board as mouse
-See wbb.gamecontroller.amgp
+See [wbb.gamecontroller.amgp](wbb.gamecontroller.amgp)

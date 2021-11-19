@@ -17,4 +17,4 @@ Wii Balance Board as mouse: [wiimotionplus.gamecontroller.amgp](wiimotionplus.ga
 You will need [wbb-uinput](../../../wbb-uinput) for it to work
 
 # [BetterJoy](https://github.com/Davidobot/BetterJoy) configs
-Single Joycon with gyro as mouse: [BetterJoyForCemu.exe.config](BetterJoyForCemu.exe.config). Replace the original config with this one. This config is for the left joycon. If you use the right joycon change line 90 to `<add key="GyroMouseLeftHanded" value="false"/>`
+Single Joycon with gyro as mouse: [BetterJoyForCemu.exe.config](BetterJoyForCemu.exe.config). Replace the original config with this one. This config is for the left joycon. If you use the right joycon change line 90 to `<add key="GyroMouseLeftHanded" value="false"/>`. If you don't use HIDG set line 66 to `<add key="UseHIDG" value="false" />`

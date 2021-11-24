@@ -9,7 +9,7 @@ Open this link steam://controllerconfig/338170/2654540249 or create the director
 
 
 # [AntiMicroX](https://github.com/AntiMicroX/antimicrox) configs
-It could be that AntiMicroX crashes when you use loaded configs (might just be for the Balance Board)
+It could be that AntiMicroX crashes when you use loaded configs (might just be wbb-uinput's fault)
   
 Wiimote with Motion Plus as mouse: [wbb.gamecontroller.amgp](wbb.gamecontroller.amgp). 
 

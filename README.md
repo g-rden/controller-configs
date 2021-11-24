@@ -2,10 +2,10 @@
 
 # Steam configs
 PS4 Controller with gyro and flickstick as mouse.
-Open this link steam://controllerconfig/338170/2654063828 or create the directory ~/.local/share/Steam/steamapps/workshop/content/<your user id>/2654063828 with the [PS4 controller config file](1782857511233637843_legacy.bin) inside on Linux and the same on Windows with this path <some drive>\Steam\userdata\<your user id>\<game id>.
+Open this link steam://controllerconfig/338170/2654063828 or create the directory `~/.local/share/Steam/steamapps/workshop/content/<your user id>/2654063828` with the [PS4 controller config file](1782857511233637843_legacy.bin) inside on Linux and the same on Windows with this path `<some drive>\Steam\userdata\<your user id>\<game id>`.
 
 Single Joycon with gyro and flickstick as mouse. Set up the BetterJoy config first.
-Open this link steam://controllerconfig/338170/2654540249 or create the directory ~/.local/share/Steam/steamapps/workshop/content/<your user id>/2654540249 with the [Joycon config file](1782857511235957837_legacy.bin) inside on Linux and the same on Windows with this path <some drive>\Steam\userdata\<your user id>\<game id>.
+Open this link steam://controllerconfig/338170/2654540249 or create the directory `~/.local/share/Steam/steamapps/workshop/content/<your user id>/2654540249` with the [Joycon config file](1782857511235957837_legacy.bin) inside on Linux and the same on Windows with this path `<some drive>\Steam\userdata\<your user id>\<game id>`.
 
 
 # [AntiMicroX](https://github.com/AntiMicroX/antimicrox) configs
